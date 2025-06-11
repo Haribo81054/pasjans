@@ -1,0 +1,4 @@
+
+class PasjansException(Exception):
+    pass
+
